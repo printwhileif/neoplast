@@ -1,10 +1,6 @@
 
 # Dating App Card Stack
 
-Projeto exemplo "Dating App Card Stack" baseado no design original do Figma.
-
-Original design: https://www.figma.com/file/Bx1uiTfEFzruj2Do8eHVDe/Dating-App-Card-Stack
-
 ## Descrição
 
 Bundle de componentes React + Vite que implementa um card stack para um app de encontros.
